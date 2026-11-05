@@ -1,0 +1,8 @@
+# Ignore data and artifacts
+data/
+artifacts/
+
+# Ignore Python caches
+__pycache__/
+*.pyc
+.env
